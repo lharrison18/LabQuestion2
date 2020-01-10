@@ -1,4 +1,4 @@
-# LabQuestion2
+Title: LabQuestion2
 Name: Lauren Harrison      
 Discription: Making an array of integers, to write a pseudocode for the choice of selection sort algorithm.
 Date: 1/10/20

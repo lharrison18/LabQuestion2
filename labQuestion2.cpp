@@ -11,7 +11,7 @@ i : = 0
 int array[5]
 srand(static_cast<int> (time(0)))
 for i = 0 to i < 5
-    array[i] = rand() % 101
+    rand := generatesRandomInteger [0, 100]
     endFor
 
     or

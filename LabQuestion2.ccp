@@ -24,13 +24,13 @@ for i = 1 to n - 1
      smallest = i
 
      for j = i + 1 to n
-         if array[j] < array[smallest] 
+         if array[j] < array[smallest], then
             smallest = j
           endIf
       endFor
 
 	if smallestIndex != i 
-              swap array[smallest] and array[i]
+              swap array[smallest] and array[i], then
            endIf
 endFor
  

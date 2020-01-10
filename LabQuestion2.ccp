@@ -15,7 +15,7 @@ endFor
 for i = 1 to n - 1
      smallest = i
 
-     for j = i +1 to n
+     for j = i + 1 to n
          if array[j] < array[smallest] 
             smallest = j
           endIf

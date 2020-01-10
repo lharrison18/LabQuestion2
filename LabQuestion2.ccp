@@ -1,8 +1,9 @@
 # LabQuestion2
-Lauren Harrison      
-Making an array of integers, to write a pseudocode for the choice of selection sort algorithm.
+Name: Lauren Harrison      
+Discription: Making an array of integers, to write a pseudocode for the choice of selection sort algorithm.
+Date: 1/10/20
 
-      START
+START
 
 i: =0
 int array[5]

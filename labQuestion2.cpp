@@ -33,8 +33,8 @@ for i = 0 to i < 5
 
                 if smallestIndex != i
                     swap array[smallest] and array[i], then
-                    endIf
-                    endFor
+                endIf
+          endFor
 
 
                     STOP

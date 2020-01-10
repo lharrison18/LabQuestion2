@@ -12,6 +12,14 @@ for i = 0 to i < 5
      array[i] = rand( ) % 101
 endFor
 
+or 
+
+int array[0] = 34
+int array[1] = 4
+int array[2] = 14
+int array[3] = 28
+int array[4] = 86 
+
 for i = 1 to n - 1
      smallest = i
 
